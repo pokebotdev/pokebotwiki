@@ -1,14 +1,8 @@
----
-description: Allows users to see the entire list of Abilities Pokemon have.
----
-
 # Ability \(abil\) Command
 
-Example: `pb!abil`
+## pb!abil
 
-![is what Pokebot will display](../.gitbook/assets/abilities.PNG)
+Shows a list of pokemon abilities which can be navigated through by reacting to the emojis.
 
-* Pressing the right arrow will move the page forward.
-* Pressing the left arrow will move the page backwards.
-* Pressing the button will delete the page forward.
+![](../.gitbook/assets/abilities.PNG)
 
