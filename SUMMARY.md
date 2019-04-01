@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [FAQ](welcome.md)
+* [Special Feature](special-feature.md)
 
 ## Commands
 
