@@ -6,7 +6,9 @@ description: Allows users to see the entire list of Pokemon available.
 
 The Pokedex command `pb!pd` shows every Pokemon available to search for.
 
-![](../.gitbook/assets/pd.PNG)
+![is what Pokebot will display](../.gitbook/assets/pd.PNG)
 
-Users will be able to switch pages using the left and right arrows and cancel by pressing the center button.
+* Pressing the right arrow will move the page forward.
+* Pressing the left arrow will move the page backwards.
+* Pressing the button will delete the page forward.
 
