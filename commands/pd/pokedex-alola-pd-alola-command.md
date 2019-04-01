@@ -2,7 +2,7 @@
 
 ## pb!pd alola
 
-List all the Alolan Pokemon in out database.
+List all the Alolan Pokemon in our database.
 
 ![](../../.gitbook/assets/pdalola.PNG)
 
