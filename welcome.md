@@ -10,7 +10,7 @@ Pokebot is a Discord bot created to help people obtain information about a Pokem
 
 ## I have a problem with Pokebot where do I go?
 
-You can join our Official Support server [here](https://discordapp.com/invite/qu2mvH2) to get support.
+You can join our Official Support Server [here](https://discordapp.com/invite/qu2mvH2) to get support.
 
 
 
