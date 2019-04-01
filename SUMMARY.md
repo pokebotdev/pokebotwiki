@@ -5,5 +5,5 @@
 
 ## Commands
 
-* [Untitled](commands/untitled.md)
+* [Pokedex](commands/untitled.md)
 
