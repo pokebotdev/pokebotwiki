@@ -2,7 +2,7 @@
 description: Allows users to see the entire list of Abilities Pokemon have.
 ---
 
-# abil
+# Ability \(abil\) Command
 
 Example: `pb!abil`
 

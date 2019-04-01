@@ -6,16 +6,10 @@
 
 ## Commands
 
-* [pd](commands/pd.md)
-* [pd \[dexNum\]](commands/pd-dexnum.md)
-* [pd \[name\]](commands/pd-name.md)
-* [pd alola](commands/pd-alola.md)
-* [pd alola \[dexNum\]](commands/pd-alola-dexnum.md)
-* [pd alola \[name\]](commands/pd-alola-name.md)
-* [pd mega](commands/pd-mega.md)
-* [pd mega \[dexNum\]](commands/pd-mega-dexnum.md)
-* [pd mega \[name\]](commands/pd-mega-name.md)
-* [abil](commands/abil.md)
+* [Pokedex \(pd\) Command](commands/pd/README.md)
+  * [Pokedex Alola \(pd alola\) Command](commands/pd/pokedex-alola-pd-alola-command.md)
+  * [Pokedex Mega \(pd mega\) Command](commands/pd/pokedex-mega-pd-mega-command.md)
+* [Ability \(abil\) Command](commands/abil.md)
 * [abil \[name\]](commands/abil-name.md)
 * [cat \[name\]](commands/cat.md)
 * [color](commands/color.md)
