@@ -1,10 +1,8 @@
----
-description: Shows a list of Pokemon in a category.
----
+# Category \(cat\) Command
 
-# cat \[name\]
+## pb!cat \(name\)
 
-Example: `pb!cat mouse`
+You can also search Pokemon by what Category they are in. Lets say the User want to find all Mouse Pokemon, `pb!cat mouse` is what they would use.
 
-![is what Pokebot will display](../.gitbook/assets/category.PNG)
+![](../.gitbook/assets/category%20%281%29.PNG)
 

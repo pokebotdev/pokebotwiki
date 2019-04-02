@@ -15,5 +15,7 @@ description: Main Page
 * [x] Alola Types
 * [x] Mega Evolutions
 
+{% page-ref page="welcome.md" %}
 
+{% page-ref page="special-feature.md" %}
 
