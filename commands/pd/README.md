@@ -18,6 +18,10 @@ This will return a list of all the Pokemon we currently have an info-card for, y
 
 Search through our database using the Pokemon's National Pokedex Number, for example, Pikachu's is `#151` so to get Pikachu's info-card you can do `pb!pd 151` it's that simple! A list of Pokemon by [Ndex](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number).
 
+{% hint style="warning" %}
+Some Pokemon have forms so using their NDex number wont work if you're looking for a Pokemon form! Please use the [Naming](./#pb-pd-name) feature below.
+{% endhint %}
+
 ![](../../.gitbook/assets/mew151.PNG)
 
 ## pb!pd \(name\)
