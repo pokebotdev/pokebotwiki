@@ -1,10 +1,14 @@
----
-description: Displays a list of different symbols you can have for stats.
----
+# Stats \(stat\) Command
 
-# stats
+## pb!stats
 
-Example: `pb!stats`
+Dont like how the stats appear for your Pokemon? Well the User can simply change how they look by doing `pb!stats` which shows a list of available symbols.
 
-![is what Pokebot will display.](../.gitbook/assets/stats.PNG)
+![](../.gitbook/assets/stats.PNG)
+
+## pb!stats \(number\)
+
+The User can then select what symbol they want by doing `pb!stats 6`.
+
+![](../.gitbook/assets/stats2%20%281%29.PNG)
 

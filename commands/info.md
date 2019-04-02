@@ -1,10 +1,8 @@
----
-description: Shows information about the bot.
----
+# info Command
 
-# info
+## pb!info
 
-Example: `pb!info`
+Will provide information about the bot.
 
-![is what Pokebot will display](../.gitbook/assets/info.PNG)
+![](../.gitbook/assets/info.PNG)
 

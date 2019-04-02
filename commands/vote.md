@@ -1,10 +1,8 @@
----
-description: Allows Users to check if they have recently voted for the special feature.
----
+# vote Command
 
-# vote
+## pb!vote
 
-Example: `pb!vote`
+Pokebot will check if the User has recently voted, how many votes they've done and links to the websites on which they can vote on.
 
-![is what Pokebot will display.](../.gitbook/assets/vote.PNG)
+![](../.gitbook/assets/vote.PNG)
 

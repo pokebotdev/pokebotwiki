@@ -1,16 +1,14 @@
----
-description: Allows users to toggle the special feature on or off.
----
+# DM \(dms\) Command
 
-# dm \[choice\]
+## pb!dm \(choice\)
+
+Users can choose to receive or not Receive DMs from Pokebot about the special feature.
 
 **choices**  
 `off  
 on`
 
-Example: `pb!dm off`
-
-![is what Pokebot will display.](../.gitbook/assets/dm.PNG)
+If the User does `pb!dm off` Pokebot will send this message and stop sending DMs.
 
 
 

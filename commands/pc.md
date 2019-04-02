@@ -1,14 +1,12 @@
----
-description: Changes the prefix for what prefix the special feature sends you.
----
+# Pokecord Prefix \(pc\) Command
 
-# pc \[Pokécord Prefix\]
+## pb!pc \(Pokecord Prefix\)
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 This can only be changed by Admins or owners of a guild!
 {% endhint %}
 
-Example: `pb!pc p!`
+Users can make Pokebot change what prefix is send for the Special Feature. Default will be `p!` however if a server has changed this to `$` Users highlighting the command wont trigger Pokecord correctly.
 
-![is what Pokebot will display.](../.gitbook/assets/pc.PNG)
+![](../.gitbook/assets/pc.PNG)
 
