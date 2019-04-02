@@ -1,4 +1,4 @@
-# type Command
+# Type \(type\) Command
 
 ## pb!type
 

@@ -1,4 +1,4 @@
-# info Command
+# Information \(info\) Command
 
 ## pb!info
 

@@ -1,6 +1,6 @@
 # Feedback \(fb\) Command
 
 {% hint style="danger" %}
-DOES NOT WORK, FIX IN PROGRESS!
+Currently being refined so feedback is more effective.
 {% endhint %}
 

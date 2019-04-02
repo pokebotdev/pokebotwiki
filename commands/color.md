@@ -1,8 +1,8 @@
-# Color Command
+# Color \(color/colour\) Command
 
 ## pb!color
 
-Shows a list of color names Users can use to search Pokemon by.
+Shows a list of colors Users can use to search Pokemon by.
 
 ![](../.gitbook/assets/color.PNG)
 

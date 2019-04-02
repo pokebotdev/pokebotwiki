@@ -10,7 +10,7 @@ Commands relating to the special feature.
 
 {% page-ref page="commands/pc.md" %}
 
-Never before seen feature on a bot and the first to ever have created it, Pokebot is able to tell you what wild Pokemon has appeared which was spawned by Pokecord. In order to vote for Pokecord you must first vote for the bot [here](https://discordbots.org/bot/538122461041000458/vote), Before you receive any information about Pokecord Spawns.
+Never before seen feature on a bot and the first to ever have created it, Pokebot is able to tell you what wild Pokemon has appeared which was spawned by Pokecord. In order to recieve DMs for Pokecord spawns you must first vote for the bot [here](https://discordbots.org/bot/538122461041000458/vote)!
 
 {% hint style="warning" %}
 This will only last for 12 hours once this time expires you will not receive anymore Dms!

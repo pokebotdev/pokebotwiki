@@ -1,4 +1,4 @@
-# vote Command
+# Votes \(vote\) Command
 
 ## pb!vote
 
