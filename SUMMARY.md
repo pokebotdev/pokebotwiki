@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to the Pokebot docs!](README.md)
 * [FAQ](welcome.md)
 * [Special Feature](special-feature.md)
 

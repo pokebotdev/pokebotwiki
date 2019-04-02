@@ -1,8 +1,4 @@
----
-description: Main Page
----
-
-# Welcome
+# Welcome to the Pokebot docs!
 
 **You can trigger the bot in many ways, either with the prefix, or by mentioning the bot instead of a prefix.**  
 Both `pb!ping` and `pb! ping` work as well as `@Pokebot#4440 ping`
