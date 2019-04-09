@@ -1,6 +1,8 @@
 # Feedback \(fb\) Command
 
-{% hint style="danger" %}
-Currently being refined so feedback is more effective.
-{% endhint %}
+## pb!feedback \(feedback\)
+
+Sends a message to the Developers which should provide feedback for the bot.
+
+![](../.gitbook/assets/feedback.PNG)
 
