@@ -13,7 +13,7 @@ Both `pb!ping` and `pb! ping` work as well as `@Pokebot#4440 ping`
 * [ ] Generation 6
 * [ ] Generation 7
 * [ ] Generation 8
-* [ ] Alolan Pokedex
+* [x] Alolan Pokedex
 * [x] Alolan Types
 * [x] Mega Evolutions
 
