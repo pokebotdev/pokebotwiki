@@ -32,5 +32,5 @@ Search through the database just by searching it's name! If you can only remembe
 
 ![](../../.gitbook/assets/saur.PNG)
 
-The [`alola`](pokedex-alola-pd-alola-command.md) and [`mega`](pokedex-mega-pd-mega-command.md) commands work similar to this, but only searching through the Alolan Pokedex and Mega Evolutions.
+The [`alola`](pd-alola.md) and [`mega`](pd-mega.md) commands work similar to this, but only searching through the Alolan Pokedex and Mega Evolutions.
 

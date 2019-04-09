@@ -7,8 +7,8 @@
 ## Commands
 
 * [Pokedex \(pd\) Command](commands/pd/README.md)
-  * [Pokedex Alola \(pd alola\) Command](commands/pd/pokedex-alola-pd-alola-command.md)
-  * [Pokedex Mega \(pd mega\) Command](commands/pd/pokedex-mega-pd-mega-command.md)
+  * [Pokedex Alola \(pd alola\) Command](commands/pd/pd-alola.md)
+  * [Pokedex Mega \(pd mega\) Command](commands/pd/pd-mega.md)
 * [Ability \(abil\) Command](commands/abil.md)
 * [Category \(cat\) Command](commands/cat.md)
 * [Color \(color/colour\) Command](commands/color.md)
