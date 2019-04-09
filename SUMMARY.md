@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to the Pokebot docs!](README.md)
-* [FAQ](welcome.md)
+* [FAQ](faq.md)
 * [Special Feature](special-feature.md)
 
 ## Commands

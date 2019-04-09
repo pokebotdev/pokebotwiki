@@ -17,7 +17,7 @@ Both `pb!ping` and `pb! ping` work, as well as `@Pokebot#4440 ping`
 * [x] Alolan Types
 * [x] Mega Evolutions
 
-{% page-ref page="welcome.md" %}
+{% page-ref page="faq.md" %}
 
 {% page-ref page="special-feature.md" %}
 
